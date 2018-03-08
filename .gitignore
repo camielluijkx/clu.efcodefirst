@@ -4,3 +4,7 @@
 
 /packages/Antlr.3.4.1.9004
 /packages
+/.vs/clu.efcodefirst/v15
+/clu.efcodefirst.web.api/bin/roslyn
+/clu.efcodefirst.web.api/bin
+/clu.efcodefirst.web.api/obj/Debug
